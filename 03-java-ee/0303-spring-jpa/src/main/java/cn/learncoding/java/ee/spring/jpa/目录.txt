@@ -1,0 +1,9 @@
+simple  一个最简单的jpa实例
+auditing    审计功能，自动记录创建时间、创建人、更新时间、更新人。
+multiple.datasources    多数据源实例
+projections     支持返回部分数据（没有实体方便）
+custom.one      定义单独的一个dao，单个
+custom.base     定义dao基类，通用
+BootstrapMode   2.1之后 DEFAULT、LAZY 、DEFERRED ，lazy可让启动耗时大大缩减
+
+https://github.com/spring-projects/spring-data-examples/tree/master/jpa

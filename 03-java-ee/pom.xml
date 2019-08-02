@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>learn-coding-codes</artifactId>
+        <groupId>cn.learncoding</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>03-java-ee</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>0301-spring</module>
+        <module>0302-spring-mvc</module>
+        <module>0303-spring-jpa</module>
+        <module>0304-mybatis</module>
+        <module>0305-hibernate</module>
+        <module>0306-spring-boot</module>
+    </modules>
+
+
+</project>
